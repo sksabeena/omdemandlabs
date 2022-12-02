@@ -1,2 +1,0 @@
-# omdemandlabs
-ondemandlabs.git
